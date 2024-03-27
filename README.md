@@ -1,2 +1,3 @@
 # test.cc
-This is a description.
+
+This is a test repository for kitteAB's video.M
